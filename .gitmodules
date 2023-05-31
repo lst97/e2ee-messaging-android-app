@@ -1,0 +1,3 @@
+[submodule "e2ee-messaging-android-app-backend"]
+	path = e2ee-messaging-android-app-backend
+	url = https://github.com/lst97/e2ee-messaging-android-app-backend
